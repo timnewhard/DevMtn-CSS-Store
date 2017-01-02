@@ -1,0 +1,23 @@
+{
+  "name": "css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-lemire/CSS.git"
+  },
+  "author": "James Lemire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j-lemire/CSS/issues"
+  },
+  "homepage": "https://github.com/j-lemire/CSS#readme",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
