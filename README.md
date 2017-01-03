@@ -1,1 +1,1 @@
-# DevMtn-CSS-Store
+# DevMtn-CSS-Store - please add some instructions for the student
